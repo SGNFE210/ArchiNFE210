@@ -51,4 +51,16 @@
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_1819e991-1873-4e50-9d92-3208cae1184c.xml#1819e991-1873-4e50-9d92-3208cae1184c"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e48463cd-124f-4c1a-a4b6-4e256b6c4fc7">
+    <bounds
+        x="240"
+        y="216"
+        width="217"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_58429652-019e-4d21-875a-8166ce0effcc.xml#58429652-019e-4d21-875a-8166ce0effcc"/>
+  </children>
 </archimate:ArchimateDiagramModel>
