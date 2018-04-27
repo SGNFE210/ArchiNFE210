@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enregistre"
+    id="45ec7e41-ad47-4611-ac53-23830cf42060">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d0f26121-46ea-4f01-ac04-8fc7be51cc2d.xml#d0f26121-46ea-4f01-ac04-8fc7be51cc2d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_f36ef865-2f6f-4000-94b6-bbf950b85a35.xml#f36ef865-2f6f-4000-94b6-bbf950b85a35"/>
+</archimate:AccessRelationship>
