@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Accède a"
+    name="Prévient"
     id="125160a2-2bc7-4d85-b59e-f1ed24d3d4b6">
   <source
       xsi:type="archimate:BusinessService"
