@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accerder à"
+    id="e4089c87-7c2d-4f38-999d-dfc2aeab0765"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a3f502d5-c3d6-448e-af13-65bb3b2e43f4.xml#a3f502d5-c3d6-448e-af13-65bb3b2e43f4"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_80b2e397-78af-437c-8ea6-001828ef6ce6.xml#80b2e397-78af-437c-8ea6-001828ef6ce6"/>
+</archimate:AccessRelationship>
