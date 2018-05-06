@@ -81,8 +81,8 @@
           href="CompositionRelationship_6f1f8fda-c719-459c-9085-3a70c4e576ef.xml#6f1f8fda-c719-459c-9085-3a70c4e576ef"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="127"
+        x="252"
+        y="187"
         width="1273"
         height="109"/>
     <children
@@ -238,8 +238,8 @@
           href="CompositionRelationship_2217eb49-5b2c-4b23-bf4d-d6b5fc6cbf9e.xml#2217eb49-5b2c-4b23-bf4d-d6b5fc6cbf9e"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="343"
+        x="252"
+        y="403"
         width="1273"
         height="85"/>
     <children
@@ -311,8 +311,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="151"
+        x="18"
+        y="211"
         width="163"
         height="61"/>
     <archimateElement
@@ -328,8 +328,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="252"
+        x="18"
+        y="312"
         width="160"
         height="61"/>
     <archimateElement
@@ -345,8 +345,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="360"
+        x="18"
+        y="420"
         width="160"
         height="61"/>
     <archimateElement
@@ -362,8 +362,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="480"
+        x="18"
+        y="540"
         width="160"
         height="73"/>
     <archimateElement
@@ -379,8 +379,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="667"
+        x="18"
+        y="727"
         width="160"
         height="73"/>
     <archimateElement
@@ -420,8 +420,8 @@
           href="CompositionRelationship_9237dfbf-1527-4a70-8fb3-2621c6fcda75.xml#9237dfbf-1527-4a70-8fb3-2621c6fcda75"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="667"
+        x="252"
+        y="727"
         width="1273"
         height="73"/>
     <children
@@ -498,8 +498,8 @@
           href="RealizationRelationship_18d43b04-dba4-4e2d-a3e8-5a8c6c13c90a.xml#18d43b04-dba4-4e2d-a3e8-5a8c6c13c90a"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="583"
+        x="252"
+        y="643"
         width="1273"
         height="73"/>
     <children
@@ -557,8 +557,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="583"
+        x="18"
+        y="643"
         width="160"
         height="66"/>
     <archimateElement
@@ -625,8 +625,8 @@
           href="CompositionRelationship_77e91b60-4387-4113-9e14-4ee195a80024.xml#77e91b60-4387-4113-9e14-4ee195a80024"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="439"
+        x="252"
+        y="499"
         width="1273"
         height="133"/>
     <children
@@ -712,8 +712,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="12"
-        y="39"
+        x="18"
+        y="99"
         width="163"
         height="61"/>
     <archimateElement
@@ -789,8 +789,8 @@
           href="CompositionRelationship_33682931-29e7-446f-9acc-04fd22df40cb.xml#33682931-29e7-446f-9acc-04fd22df40cb"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="24"
+        x="252"
+        y="84"
         width="1273"
         height="92"/>
     <children
@@ -932,8 +932,8 @@
           href="CompositionRelationship_edb8c5e4-28a8-4a2e-b572-3ca339c16676.xml#edb8c5e4-28a8-4a2e-b572-3ca339c16676"/>
     </sourceConnections>
     <bounds
-        x="246"
-        y="247"
+        x="252"
+        y="307"
         width="1273"
         height="85"/>
     <children
@@ -991,5 +991,18 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_b458617a-2fdc-468c-8075-ee3850d695de.xml#b458617a-2fdc-468c-8075-ee3850d695de"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2bd42425-d9de-458f-9366-0ab9c9878919"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#c0c0c0"
+      content="La vision fonctionnelle d'Aero-Breitzh"
+      textPosition="1">
+    <bounds
+        x="18"
+        y="12"
+        width="1507"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
