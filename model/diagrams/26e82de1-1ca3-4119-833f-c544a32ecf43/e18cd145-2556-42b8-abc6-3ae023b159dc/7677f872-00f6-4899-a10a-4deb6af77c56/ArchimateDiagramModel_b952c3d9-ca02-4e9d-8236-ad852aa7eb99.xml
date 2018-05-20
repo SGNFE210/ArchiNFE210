@@ -1,21 +1,65 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="POS Applicatif (en cours)"
-    id="0c1b468a-ed89-4144-943e-9fa82deab8dc">
+    name="POS Applicatif ANIS (AS IS)"
+    id="b952c3d9-ca02-4e9d-8236-ad852aa7eb99">
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="c63eb3af-33ac-4680-b2da-9e1f2571762d"
+      id="30de81a9-8e6e-4b03-aa68-c294b7a79784"
+      name="Ressource &amp; support"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="660"
+        width="972"
+        height="144"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="6831c270-34f4-4f44-997e-08ea995270f3"
+      name="Pilotage et contrôle"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="12"
+        width="972"
+        height="84"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="5b909ecc-8281-4d29-a8c3-28e2d2d6bba6"
+      name="Echange"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="108"
+        width="144"
+        height="480"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="6c3a1fca-7510-44e8-8e85-1facf8557cad"
+      name="Gisement de données"
+      textAlignment="1">
+    <bounds
+        x="840"
+        y="108"
+        width="156"
+        height="480"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="616d4a1c-96fb-4997-929b-f7cbce4419ea"
       name="Domaine gestion"
       textAlignment="1">
     <bounds
-        x="180"
+        x="204"
         y="108"
         width="300"
         height="540"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="6d666104-e92e-423d-be52-094c7ab3a4d2">
+        id="7e4d3a35-e40c-4b39-a769-16b248c5d47c">
       <bounds
           x="24"
           y="36"
@@ -23,7 +67,7 @@
           height="276"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="562ec747-b771-4024-881a-2254e8e2a018">
+          id="530aa14a-ed44-4db7-b3f3-4a0499573bb7">
         <bounds
             x="12"
             y="48"
@@ -35,7 +79,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="f03cff5e-7ea8-4703-abf9-315adffb012c">
+          id="8cb32d78-302a-49ad-8866-20a3e1cc9a11">
         <bounds
             x="12"
             y="192"
@@ -47,7 +91,7 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="414f431b-656f-4aaf-afa6-81a82dddd4ce">
+          id="dedeb331-5ea6-47d6-b231-424a5a1515d7">
         <bounds
             x="12"
             y="120"
@@ -63,7 +107,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="555f2158-e3dc-4533-b47f-cdb1db450cf6">
+        id="01d18386-218a-4541-8dde-32cad517bc7a">
       <bounds
           x="24"
           y="456"
@@ -75,7 +119,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="a6b47df5-26bb-4dac-9afe-fe87ff32015f">
+        id="dc841f60-7dd2-42c7-9565-8e8c47e37938">
       <bounds
           x="24"
           y="324"
@@ -83,7 +127,7 @@
           height="108"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="9755f8e8-df96-44e3-82b1-534ff9a4f80e">
+          id="7f430631-e163-46bc-ad3e-0a94df1d2b6b">
         <bounds
             x="12"
             y="36"
@@ -100,17 +144,17 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="e6ec5488-0bb0-4dce-9f36-d3aa4d2e9bf5"
+      id="00305ff2-0afe-419e-94b5-7483cc62c240"
       name="Domaine technique"
       textAlignment="1">
     <bounds
-        x="516"
+        x="540"
         y="108"
         width="265"
         height="480"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="db610405-fe7e-4eb4-a028-71aa6d77e6e5">
+        id="a95d9acf-3982-405d-aa61-03535b9e08fe">
       <bounds
           x="12"
           y="180"
@@ -122,7 +166,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="af5e85e2-2981-4a60-8128-e6d8d8248d0a">
+        id="d3818d65-9eec-49b5-9e05-5d0c0a10d848">
       <bounds
           x="12"
           y="360"
@@ -134,7 +178,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="285dafa3-a50b-47bd-9410-30b711fae323">
+        id="e621fd25-ff25-455d-bfbf-7f7df59be85a">
       <bounds
           x="12"
           y="36"
@@ -142,7 +186,7 @@
           height="127"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="70f5d397-76ea-4835-937b-87fd291c87be">
+          id="62ffa537-a718-4a30-9744-690bb3bf24d2">
         <bounds
             x="12"
             y="48"
@@ -156,82 +200,5 @@
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_31b870a6-8b3f-481b-8dba-86f1d515d0f4.xml#31b870a6-8b3f-481b-8dba-86f1d515d0f4"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="c17cd3b4-9548-4aeb-829b-9b5806d454eb"
-      name="Ressource &amp; support"
-      textAlignment="1">
-    <bounds
-        y="660"
-        width="972"
-        height="144"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="6c428916-186c-4f86-a38d-7d17d0ad11b0">
-      <bounds
-          x="300"
-          y="24"
-          width="215"
-          height="108"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_b976bc95-c839-475f-b1fe-57ab25907b04.xml#b976bc95-c839-475f-b1fe-57ab25907b04"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="2919c718-d44e-4310-91ca-f9d2f7234c81">
-      <bounds
-          x="48"
-          y="24"
-          width="228"
-          height="108"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="59f09b02-fafe-4869-8203-9dbd4950f58c">
-        <bounds
-            x="12"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_cb81faac-1d51-4005-a5bb-72659bd619da.xml#cb81faac-1d51-4005-a5bb-72659bd619da"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_3433515a-cbf2-421d-8799-d322edee61f6.xml#3433515a-cbf2-421d-8799-d322edee61f6"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="dd29c371-80d3-4674-a68b-81f1ef600c9a"
-      name="Pilotage et contrôle"
-      textAlignment="1">
-    <bounds
-        y="12"
-        width="972"
-        height="84"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="ec60fa28-d961-4a55-9cec-4665874c084c"
-      name="Echange"
-      textAlignment="1">
-    <bounds
-        y="108"
-        width="144"
-        height="480"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="a1c03215-3ce4-4b07-9074-10fdc4298618"
-      name="Gisement de données"
-      textAlignment="1">
-    <bounds
-        x="816"
-        y="108"
-        width="156"
-        height="480"/>
   </children>
 </archimate:ArchimateDiagramModel>
