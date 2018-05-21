@@ -16,11 +16,12 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="66145d19-79ae-45f7-a1ed-1d9b50819357"
+        textPosition="1"
         type="1">
       <bounds
           x="24"
           y="36"
-          width="133"
+          width="169"
           height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"

@@ -152,9 +152,9 @@
         textPosition="1"
         type="1">
       <bounds
-          x="18"
+          x="12"
           y="360"
-          width="115"
+          width="121"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
