@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastructure AS IS"
-    id="bf522af5-4abd-4846-abe4-97f366b73892">
+    id="bf522af5-4abd-4846-abe4-97f366b73892"
+    viewpoint="technology">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3c15a045-1531-49b7-bee3-d7f66a6fbff3">
