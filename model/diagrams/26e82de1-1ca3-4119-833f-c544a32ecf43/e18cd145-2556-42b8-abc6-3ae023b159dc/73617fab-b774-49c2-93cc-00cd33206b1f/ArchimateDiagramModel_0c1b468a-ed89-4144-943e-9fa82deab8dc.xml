@@ -9,7 +9,7 @@
       name="Domaine gestion"
       textAlignment="1">
     <bounds
-        x="180"
+        x="216"
         y="108"
         width="325"
         height="540"/>
@@ -150,7 +150,7 @@
       name="Domaine technique"
       textAlignment="1">
     <bounds
-        x="516"
+        x="552"
         y="108"
         width="265"
         height="540"/>
@@ -226,6 +226,7 @@
       name="Ressource &amp; support"
       textAlignment="1">
     <bounds
+        x="36"
         y="660"
         width="972"
         height="157"/>
@@ -287,6 +288,7 @@
       name="Pilotage et contrôle"
       textAlignment="1">
     <bounds
+        x="36"
         y="12"
         width="972"
         height="84"/>
@@ -297,6 +299,7 @@
       name="Echange"
       textAlignment="1">
     <bounds
+        x="36"
         y="108"
         width="144"
         height="540"/>
@@ -307,7 +310,7 @@
       name="Gisement de données"
       textAlignment="1">
     <bounds
-        x="816"
+        x="852"
         y="108"
         width="156"
         height="540"/>
