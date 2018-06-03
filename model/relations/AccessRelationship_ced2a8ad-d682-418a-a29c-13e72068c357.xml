@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accès aux données de GMAO"
+    id="ced2a8ad-d682-418a-a29c-13e72068c357"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_572cebab-8cb2-4f37-874d-328899981d08.xml#572cebab-8cb2-4f37-874d-328899981d08"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_5bf2d39c-b117-45d9-903e-e190b2efc1d8.xml#5bf2d39c-b117-45d9-903e-e190b2efc1d8"/>
+</archimate:AccessRelationship>

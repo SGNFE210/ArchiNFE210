@@ -108,7 +108,8 @@
           href="CompositionRelationship_0339bc84-cae4-4571-8a25-1c1b45546d0d.xml#0339bc84-cae4-4571-8a25-1c1b45546d0d"/>
     </sourceConnections>
     <bounds
-        y="168"
+        x="36"
+        y="204"
         width="925"
         height="349"/>
     <children
@@ -400,6 +401,8 @@
           href="CompositionRelationship_47171f92-0036-4ba4-a1ee-7865e501cb53.xml#47171f92-0036-4ba4-a1ee-7865e501cb53"/>
     </sourceConnections>
     <bounds
+        x="36"
+        y="36"
         width="925"
         height="157"/>
     <children

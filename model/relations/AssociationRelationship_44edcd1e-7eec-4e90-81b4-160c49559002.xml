@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respect"
+    id="44edcd1e-7eec-4e90-81b4-160c49559002">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_5413630c-3e2e-499f-8f8f-5b0606147c17.xml#5413630c-3e2e-499f-8f8f-5b0606147c17"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_fc3aa096-5ef3-4ec8-9d1a-21857a50f758.xml#fc3aa096-5ef3-4ec8-9d1a-21857a50f758"/>
+</archimate:AssociationRelationship>

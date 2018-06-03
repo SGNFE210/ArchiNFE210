@@ -26,8 +26,8 @@
           href="ServingRelationship_dc8126a1-9840-4579-b51b-dead149e68e6.xml#dc8126a1-9840-4579-b51b-dead149e68e6"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="288"
+        x="72"
+        y="360"
         width="181"
         height="55"/>
     <archimateElement
@@ -47,8 +47,8 @@
           href="ServingRelationship_96d63bc9-dbff-42b7-9327-1e8234d19112.xml#96d63bc9-dbff-42b7-9327-1e8234d19112"/>
     </sourceConnections>
     <bounds
-        x="415"
-        y="288"
+        x="331"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -59,8 +59,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6ba5292d-0275-45cc-bece-56ae38d2b1cd">
     <bounds
-        x="612"
-        y="288"
+        x="528"
+        y="360"
         width="109"
         height="55"/>
     <archimateElement
@@ -72,8 +72,8 @@
       id="95bd1739-4ce9-4dd6-95e9-8fb6402ffaec"
       targetConnections="4ee85b49-a273-48c4-b825-20277af83616">
     <bounds
-        x="276"
-        y="168"
+        x="192"
+        y="240"
         width="108"
         height="61"/>
     <archimateElement
@@ -94,8 +94,8 @@
           href="ServingRelationship_26d47af8-bdfd-4466-b90c-706d346b7e19.xml#26d47af8-bdfd-4466-b90c-706d346b7e19"/>
     </sourceConnections>
     <bounds
-        x="420"
-        y="168"
+        x="336"
+        y="240"
         width="109"
         height="61"/>
     <archimateElement
@@ -106,8 +106,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="57c7f1e7-75ce-4993-880c-9409e0a7d5c7">
     <bounds
-        x="612"
-        y="174"
+        x="528"
+        y="246"
         width="109"
         height="55"/>
     <archimateElement
@@ -128,8 +128,8 @@
           href="ServingRelationship_d05463d0-0eb5-4d26-adc5-6a89bc86e2d9.xml#d05463d0-0eb5-4d26-adc5-6a89bc86e2d9"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="168"
+        x="36"
+        y="240"
         width="133"
         height="61"/>
     <archimateElement
@@ -158,8 +158,8 @@
           href="CompositionRelationship_6ce88291-adc1-4494-9fb4-45758f205c4b.xml#6ce88291-adc1-4494-9fb4-45758f205c4b"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="12"
+        x="12"
+        y="84"
         width="661"
         height="109"/>
     <children
@@ -191,5 +191,18 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_53a7cfce-368f-4484-9dbc-a13dd4c127b4.xml#53a7cfce-368f-4484-9dbc-a13dd4c127b4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9ad3834c-f6b1-47a1-8b6e-741ece333a46"
+      font="1|Segoe UI|18.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#c0c0c0"
+      content="Infrastructure AeroNet avant projet"
+      textPosition="1">
+    <bounds
+        x="12"
+        y="12"
+        width="661"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
