@@ -6,30 +6,8 @@
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a96f780c-7864-439e-84a8-9423f781a272"
-      textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="cee5de30-7a81-4486-96f7-95ac2a8fe4ae"
-        source="a96f780c-7864-439e-84a8-9423f781a272"
-        target="0f7170ec-a7db-4297-8704-b70bbc62a257">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_7747cfa7-88ad-4724-b4f4-652c9baae2fe.xml#7747cfa7-88ad-4724-b4f4-652c9baae2fe"/>
-    </sourceConnections>
-    <bounds
-        x="24"
-        y="36"
-        width="181"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_b3f505f9-34cc-47b8-b2de-1447d0edb906.xml#b3f505f9-34cc-47b8-b2de-1447d0edb906"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="0f7170ec-a7db-4297-8704-b70bbc62a257"
-      targetConnections="cee5de30-7a81-4486-96f7-95ac2a8fe4ae">
+      targetConnections="3161942b-5e4c-41a6-9f58-55a0d7e9fd92">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="3d5ebb86-a270-42c3-a53c-f94eac2565db"
@@ -227,5 +205,27 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_fc3aa096-5ef3-4ec8-9d1a-21857a50f758.xml#fc3aa096-5ef3-4ec8-9d1a-21857a50f758"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="76e157b5-1d0c-4ff1-a355-8f49bf071449"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3161942b-5e4c-41a6-9f58-55a0d7e9fd92"
+        source="76e157b5-1d0c-4ff1-a355-8f49bf071449"
+        target="0f7170ec-a7db-4297-8704-b70bbc62a257">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_b2b7bacb-d9a9-4098-a11f-fb0381a86b16.xml#b2b7bacb-d9a9-4098-a11f-fb0381a86b16"/>
+    </sourceConnections>
+    <bounds
+        x="25"
+        y="24"
+        width="192"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_04665f57-7a3e-4b13-a0ee-f79276f44af8.xml#04665f57-7a3e-4b13-a0ee-f79276f44af8"/>
   </children>
 </archimate:ArchimateDiagramModel>
