@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Respect"
+    name="Respecte"
     id="44edcd1e-7eec-4e90-81b4-160c49559002">
   <source
       xsi:type="archimate:BusinessFunction"

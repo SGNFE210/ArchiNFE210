@@ -1007,19 +1007,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="84767b9b-cd06-4033-afbc-222a5dc0aef1"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
-    <bounds
-        x="252"
-        y="828"
-        width="1285"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_64d4d66c-34f5-44ac-a926-aed4de52e47e.xml#64d4d66c-34f5-44ac-a926-aed4de52e47e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="cc5be4e6-c00d-4df5-bae5-8746737bfcfd"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80ffff"
