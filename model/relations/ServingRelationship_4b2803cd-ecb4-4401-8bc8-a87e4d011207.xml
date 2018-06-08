@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sert ses clients"
+    id="4b2803cd-ecb4-4401-8bc8-a87e4d011207">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_bd88f93d-ab25-416b-99fa-ea655cdbc388.xml#bd88f93d-ab25-416b-99fa-ea655cdbc388"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_56fd52ca-6027-4e54-a965-928d89201c3e.xml#56fd52ca-6027-4e54-a965-928d89201c3e"/>
+</archimate:ServingRelationship>
