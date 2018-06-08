@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accès aux données entreposage du matériel"
+    id="092e6609-a504-4a49-a3f7-f4611618ca91">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b642a163-9761-4036-a334-5bf2ffbc77f5.xml#b642a163-9761-4036-a334-5bf2ffbc77f5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_31d957b4-3ad7-437d-9de4-6890774c4fa7.xml#31d957b4-3ad7-437d-9de4-6890774c4fa7"/>
+</archimate:AccessRelationship>
