@@ -1,12 +1,11 @@
-<archimate:AssociationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fonction effectuée dans"
-    id="dcc66a9d-dd15-42a6-9aaa-cdec718b1470">
+    id="b656498b-a36d-462c-a188-4300343d6ba4">
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_5413630c-3e2e-499f-8f8f-5b0606147c17.xml#5413630c-3e2e-499f-8f8f-5b0606147c17"/>
   <target
-      xsi:type="archimate:Location"
-      href="Location_61596136-6367-441b-9976-7ad2f36b841b.xml#61596136-6367-441b-9976-7ad2f36b841b"/>
-</archimate:AssociationRelationship>
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_e8a351a8-a48e-4c3b-8c6d-5777a280136a.xml#e8a351a8-a48e-4c3b-8c6d-5777a280136a"/>
+</archimate:CompositionRelationship>
