@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Se refère à la réglementation"
+    id="ae90c531-9c54-41b0-b1d6-935bdb10e1a4"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_40f97611-9049-4bf6-a7a0-40db543bab1d.xml#40f97611-9049-4bf6-a7a0-40db543bab1d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7646babd-e35a-4f4e-8401-e6544e25d8c9.xml#7646babd-e35a-4f4e-8401-e6544e25d8c9"/>
+</archimate:AccessRelationship>
