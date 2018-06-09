@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="41 - POS applicatif cible projet aéronet (à faire)"
-    id="8b740e50-a132-4d50-92b2-54f5a5f03026"/>
+    id="8b740e50-a132-4d50-92b2-54f5a5f03026"
+    viewpoint="application_cooperation"/>
