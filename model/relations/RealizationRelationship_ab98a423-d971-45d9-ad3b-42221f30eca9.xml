@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Réalise le service de décapage et peinture"
+    id="ab98a423-d971-45d9-ad3b-42221f30eca9">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_5413630c-3e2e-499f-8f8f-5b0606147c17.xml#5413630c-3e2e-499f-8f8f-5b0606147c17"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_b8a413d6-95e3-4d70-a0b6-0ff69f0eb31e.xml#b8a413d6-95e3-4d70-a0b6-0ff69f0eb31e"/>
+</archimate:RealizationRelationship>
