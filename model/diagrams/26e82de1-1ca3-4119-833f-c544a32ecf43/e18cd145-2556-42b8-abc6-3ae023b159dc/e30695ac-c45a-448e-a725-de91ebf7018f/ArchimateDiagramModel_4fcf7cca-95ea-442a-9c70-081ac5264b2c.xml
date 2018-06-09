@@ -186,7 +186,7 @@
       fillColor="#0080ff">
     <bounds
         x="1223"
-        y="232"
+        y="179"
         width="145"
         height="49"/>
     <archimateElement
@@ -536,7 +536,7 @@
       fillColor="#ff8040">
     <bounds
         x="1223"
-        y="390"
+        y="315"
         width="145"
         height="67"/>
     <archimateElement
@@ -550,7 +550,7 @@
       fillColor="#0080ff">
     <bounds
         x="1223"
-        y="480"
+        y="456"
         width="145"
         height="61"/>
     <archimateElement
