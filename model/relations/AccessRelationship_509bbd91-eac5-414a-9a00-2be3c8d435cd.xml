@@ -1,7 +1,6 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Accès aux données équipes"
     id="509bbd91-eac5-414a-9a00-2be3c8d435cd"
     accessType="3">
   <source

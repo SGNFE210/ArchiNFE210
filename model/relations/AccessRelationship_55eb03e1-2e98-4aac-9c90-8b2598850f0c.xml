@@ -1,7 +1,6 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Accès aux données liés aux interventions"
     id="55eb03e1-2e98-4aac-9c90-8b2598850f0c"
     accessType="3">
   <source
