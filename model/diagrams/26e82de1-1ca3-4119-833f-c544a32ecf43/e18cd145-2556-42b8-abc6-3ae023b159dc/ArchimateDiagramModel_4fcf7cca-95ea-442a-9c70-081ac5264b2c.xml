@@ -83,7 +83,7 @@
       <bounds
           x="24"
           y="72"
-          width="145"
+          width="169"
           height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
