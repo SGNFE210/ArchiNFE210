@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="36 - Vente et distribution de pièces"
-    id="4b779112-a1a3-4053-bdc2-ae1289bc9d94">
+    id="4b779112-a1a3-4053-bdc2-ae1289bc9d94"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="8f5ba61c-4aa0-486e-9548-94500af96bbd"

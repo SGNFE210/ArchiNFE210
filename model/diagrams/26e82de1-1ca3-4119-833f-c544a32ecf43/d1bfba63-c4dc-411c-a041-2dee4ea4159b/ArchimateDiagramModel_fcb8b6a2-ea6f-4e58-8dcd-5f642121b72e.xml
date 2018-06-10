@@ -1,9 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="21- Vue global des projets retenu décliné de la stratégie (à retravailler)"
+    name="21 - Vue global des projets retenu décliné de la stratégie (à retravailler)"
     id="fcb8b6a2-ea6f-4e58-8dcd-5f642121b72e"
-    connectionRouterType="2">
+    connectionRouterType="2"
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="34e42add-0830-421e-ae92-e9da5385d4a7"

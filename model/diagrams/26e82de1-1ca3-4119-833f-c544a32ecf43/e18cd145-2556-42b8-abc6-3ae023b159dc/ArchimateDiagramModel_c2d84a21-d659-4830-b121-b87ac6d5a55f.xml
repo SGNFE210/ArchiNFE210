@@ -1,4 +1,5 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="39 - POS applicatif global cible (à faire)"
-    id="c2d84a21-d659-4830-b121-b87ac6d5a55f"/>
+    id="c2d84a21-d659-4830-b121-b87ac6d5a55f"
+    viewpoint="application_cooperation"/>
