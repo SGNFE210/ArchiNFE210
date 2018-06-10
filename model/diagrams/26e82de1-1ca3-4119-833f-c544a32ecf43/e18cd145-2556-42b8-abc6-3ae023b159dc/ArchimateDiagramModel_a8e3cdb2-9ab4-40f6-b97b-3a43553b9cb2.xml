@@ -524,7 +524,7 @@
           x="36"
           y="324"
           width="120"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_b8d16a8d-e19d-49fe-a627-614d4307bc68.xml#b8d16a8d-e19d-49fe-a627-614d4307bc68"/>
@@ -535,7 +535,7 @@
         targetConnections="7f3cf353-4e10-47f4-9c23-cbd8225a8451"
         fillColor="#008080">
       <bounds
-          x="300"
+          x="312"
           y="252"
           width="120"
           height="55"/>
@@ -549,10 +549,10 @@
         targetConnections="205e7ecd-9f30-40d7-ac90-58d8eb22ed15"
         fillColor="#008000">
       <bounds
-          x="300"
+          x="312"
           y="324"
           width="120"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_fc178e2e-84fc-4211-8260-fe7cc2b9e3c7.xml#fc178e2e-84fc-4211-8260-fe7cc2b9e3c7"/>
@@ -565,7 +565,7 @@
       <bounds
           x="168"
           y="108"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -607,8 +607,8 @@
       <bounds
           x="168"
           y="324"
-          width="120"
-          height="55"/>
+          width="133"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_d23e253b-aaef-4509-b35a-518704114eea.xml#d23e253b-aaef-4509-b35a-518704114eea"/>
@@ -619,7 +619,7 @@
         targetConnections="224c2287-26a0-400c-8920-8130358dadbe"
         fillColor="#0080ff">
       <bounds
-          x="300"
+          x="312"
           y="108"
           width="120"
           height="55"/>
@@ -677,7 +677,7 @@
       <bounds
           x="168"
           y="180"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -689,7 +689,7 @@
         targetConnections="0665cce1-64f9-4fb0-9d52-de95ca029913"
         fillColor="#8080c0">
       <bounds
-          x="300"
+          x="312"
           y="36"
           width="120"
           height="55"/>
@@ -705,7 +705,7 @@
       <bounds
           x="168"
           y="252"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
@@ -717,7 +717,7 @@
         targetConnections="7d71c057-f99c-4966-bb69-b9392fbf7fca"
         fillColor="#ff8040">
       <bounds
-          x="300"
+          x="312"
           y="180"
           width="120"
           height="55"/>
@@ -733,7 +733,7 @@
       <bounds
           x="168"
           y="36"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:DataObject"
