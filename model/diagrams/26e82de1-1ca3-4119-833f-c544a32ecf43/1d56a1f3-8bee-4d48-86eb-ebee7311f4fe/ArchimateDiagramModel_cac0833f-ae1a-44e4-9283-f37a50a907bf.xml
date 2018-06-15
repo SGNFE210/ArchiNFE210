@@ -811,4 +811,16 @@
         xsi:type="archimate:DataObject"
         href="DataObject_fc178e2e-84fc-4211-8260-fe7cc2b9e3c7.xml#fc178e2e-84fc-4211-8260-fe7cc2b9e3c7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a642dd8e-ac92-4c8d-99c3-40b849714ad5">
+    <bounds
+        x="12"
+        y="24"
+        width="43"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_4b779112-a1a3-4053-bdc2-ae1289bc9d94.xml#4b779112-a1a3-4053-bdc2-ae1289bc9d94"/>
+  </children>
 </archimate:ArchimateDiagramModel>

@@ -336,4 +336,28 @@
         xsi:type="archimate:Meaning"
         href="Meaning_957cb546-8dfa-467a-9612-2e33071dde93.xml#957cb546-8dfa-467a-9612-2e33071dde93"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="fa677e37-1fa5-4142-879a-50bfd1a8dcc2">
+    <bounds
+        x="24"
+        y="24"
+        width="36"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_0e17a2d5-75e6-4fdf-bef1-f5d5f0b075e0.xml#0e17a2d5-75e6-4fdf-bef1-f5d5f0b075e0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="42614bb5-1bd0-4780-9af3-6ef708a4dc91">
+    <bounds
+        x="852"
+        y="24"
+        width="37"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_1560b8c6-f153-4eab-875b-ee0a78e940cf.xml#1560b8c6-f153-4eab-875b-ee0a78e940cf"/>
+  </children>
 </archimate:ArchimateDiagramModel>

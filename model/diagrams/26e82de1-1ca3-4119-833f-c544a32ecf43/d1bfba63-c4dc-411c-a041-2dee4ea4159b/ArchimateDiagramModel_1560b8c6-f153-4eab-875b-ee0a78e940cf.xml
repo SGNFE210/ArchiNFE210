@@ -202,7 +202,31 @@
     <bounds
         x="12"
         y="12"
-        width="661"
+        width="721"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a933ca17-ec5b-4cdd-be1e-268151897fde">
+    <bounds
+        x="12"
+        y="12"
+        width="37"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_8eea63d2-eb07-4ac1-90a0-367264176338.xml#8eea63d2-eb07-4ac1-90a0-367264176338"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="3af25ba7-edde-466b-b4d3-856356f8dc6b">
+    <bounds
+        x="699"
+        y="12"
+        width="34"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3182388f-3aa7-468c-8394-a86654e2ea42.xml#3182388f-3aa7-468c-8394-a86654e2ea42"/>
   </children>
 </archimate:ArchimateDiagramModel>
