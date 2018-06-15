@@ -726,6 +726,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_117404b8-965f-40ef-b90b-5cc686c464a3.xml#117404b8-965f-40ef-b90b-5cc686c464a3"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6a7ea43b-f69d-423b-a816-db18729a4767"
+        source="c5749a63-1081-4727-9977-8984764c9f2d"
+        target="33574c8c-b77a-4d1f-a737-30f367dc374c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_c3c8d1ae-fabc-4583-9016-cf5b52d376e1.xml#c3c8d1ae-fabc-4583-9016-cf5b52d376e1"/>
+    </sourceConnections>
     <bounds
         x="367"
         y="694"
@@ -781,21 +790,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="33574c8c-b77a-4d1f-a737-30f367dc374c"
-        fillColor="#8080c0"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="444"
-          y="36"
-          width="127"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_c1215913-ae05-47c5-a9b6-7a53a604f582.xml#c1215913-ae05-47c5-a9b6-7a53a604f582"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="277a0af8-a8bc-4519-8a2c-31277d4dfabb"
         targetConnections="85f196e6-a327-4861-8bb4-dadb722b7923"
         fillColor="#008000"
@@ -808,6 +802,22 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_10794cd1-a516-4c5c-aeed-620f5f12e18e.xml#10794cd1-a516-4c5c-aeed-620f5f12e18e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="33574c8c-b77a-4d1f-a737-30f367dc374c"
+        targetConnections="6a7ea43b-f69d-423b-a816-db18729a4767"
+        fillColor="#8080c0"
+        textPosition="1"
+        type="1">
+      <bounds
+          x="300"
+          y="108"
+          width="127"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_c1215913-ae05-47c5-a9b6-7a53a604f582.xml#c1215913-ae05-47c5-a9b6-7a53a604f582"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
