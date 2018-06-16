@@ -284,9 +284,9 @@
       content="Vente et distribution de pièces">
     <bounds
         x="252"
-        y="100"
+        y="98"
         width="217"
-        height="24"/>
+        height="26"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
