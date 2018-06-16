@@ -18,19 +18,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ecab4afc-5b1b-49c8-b49d-970ebb42a03b"
-      targetConnections="9a4c0d77-bed6-4d26-91b5-1462c99757cd f0527dbb-e228-4617-aa66-ac5b4c44f0e6">
-    <bounds
-        x="408"
-        y="594"
-        width="109"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:SystemSoftware"
-        href="SystemSoftware_ebc3ea21-a7a4-4360-88c2-fe763f95be36.xml#ebc3ea21-a7a4-4360-88c2-fe763f95be36"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="6463e7dc-2d42-4358-a3cc-4036843a828e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -58,20 +45,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_05b9398f-36e6-43dc-956f-b5b84d6bab50.xml#05b9398f-36e6-43dc-956f-b5b84d6bab50"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f0527dbb-e228-4617-aa66-ac5b4c44f0e6"
-        source="6463e7dc-2d42-4358-a3cc-4036843a828e"
-        target="ecab4afc-5b1b-49c8-b49d-970ebb42a03b">
-      <bendpoints
-          startX="6"
-          startY="321"
-          endX="-222"
-          endY="3"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_3822fba9-45f6-40f1-80f5-53e2353e9e38.xml#3822fba9-45f6-40f1-80f5-53e2353e9e38"/>
     </sourceConnections>
     <bounds
         x="36"
@@ -159,20 +132,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_e8163240-320d-42a5-b366-e50eac9f9b1b.xml#e8163240-320d-42a5-b366-e50eac9f9b1b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9a4c0d77-bed6-4d26-91b5-1462c99757cd"
-        source="51df4ed9-a201-458b-bfe1-af68ff185fd3"
-        target="ecab4afc-5b1b-49c8-b49d-970ebb42a03b">
-      <bendpoints
-          startX="12"
-          startY="321"
-          endX="234"
-          endY="3"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_20e8f59a-e174-494f-8f97-11d021c21ab7.xml#20e8f59a-e174-494f-8f97-11d021c21ab7"/>
     </sourceConnections>
     <bounds
         x="516"
