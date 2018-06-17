@@ -588,21 +588,6 @@
           height="37"/>
     </children>
     <children
-        xsi:type="archimate:SketchModelSticky"
-        id="71117df1-b641-4343-afd8-b8ae87ba88a5"
-        name="Sticky"
-        font="1|Segoe UI|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Segoe UI"
-        lineColor="#5c5c5c"
-        textAlignment="1"
-        fillColor="#ffffb5"
-        content="Conclusion">
-      <bounds
-          x="48"
-          y="324"
-          width="374"
-          height="37"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelReference"
         id="da73a326-1822-4f38-86b7-4790da23405d">
       <bounds
