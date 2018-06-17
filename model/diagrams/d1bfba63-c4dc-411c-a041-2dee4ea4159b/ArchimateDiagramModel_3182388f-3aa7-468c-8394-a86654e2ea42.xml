@@ -14,7 +14,7 @@
     <bounds
         x="12"
         y="12"
-        width="1069"
+        width="1201"
         height="49"/>
   </children>
   <children
@@ -107,7 +107,7 @@
     <bounds
         x="648"
         y="132"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -123,7 +123,7 @@
     <bounds
         x="648"
         y="168"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -139,7 +139,7 @@
     <bounds
         x="648"
         y="204"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -155,7 +155,7 @@
     <bounds
         x="648"
         y="240"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -171,7 +171,7 @@
     <bounds
         x="648"
         y="276"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -234,7 +234,7 @@
     <bounds
         x="648"
         y="624"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -250,7 +250,7 @@
     <bounds
         x="648"
         y="672"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -266,7 +266,7 @@
     <bounds
         x="648"
         y="720"
-        width="145"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -304,7 +304,7 @@
     <bounds
         x="576"
         y="336"
-        width="217"
+        width="301"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -441,7 +441,7 @@
     <bounds
         x="576"
         y="564"
-        width="217"
+        width="301"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -549,7 +549,7 @@
     <bounds
         x="576"
         y="390"
-        width="217"
+        width="301"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -565,7 +565,7 @@
     <bounds
         x="576"
         y="444"
-        width="217"
+        width="301"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -581,7 +581,7 @@
     <bounds
         x="576"
         y="504"
-        width="217"
+        width="301"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -595,10 +595,10 @@
       content="- Atteindre une taille critique, condition de survies sur le marché aéronautique.&#xD;&#xA;- Engender une créaction de valeur (actionnaires, salariés, partenaires, clients).&#xD;&#xA;- Satisfaire les exigences nouvelles du marché aéronautique.&#xD;&#xA;- Améliorer les processus.&#xD;&#xA;- Accroitre la capacité d'innovation."
       textPosition="1">
     <bounds
-        x="840"
-        y="282"
-        width="241"
-        height="145"/>
+        x="900"
+        y="300"
+        width="301"
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -608,10 +608,10 @@
       content="- Améliorer les processus des divers départements.&#xD;&#xA;- Développer la synergie inter-département.&#xD;&#xA;- Optimiser le bénéfice des systèmes d'information."
       textPosition="1">
     <bounds
-        x="840"
-        y="426"
-        width="241"
-        height="97"/>
+        x="900"
+        y="432"
+        width="301"
+        height="67"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -621,10 +621,10 @@
       content="- Concevoir de nouveau processus et atteindre les objectifs de l'entreprise.&#xD;&#xA;- Avoir une approche industrielle, uniformiser les processus selon un référentiel commun.&#xD;&#xA;- Mobiliser les équipes de manière pro-active pour satisfaire les clients."
       textPosition="1">
     <bounds
-        x="840"
-        y="522"
-        width="241"
-        height="121"/>
+        x="900"
+        y="498"
+        width="301"
+        height="103"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

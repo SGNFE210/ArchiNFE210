@@ -139,7 +139,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d346043c-2b2a-412e-b700-867b7bd414bb"
-      targetConnections="6746fc9f-c098-46e1-bbae-11a0efd8ee3b df0a9a1b-56f3-443b-9da6-02e0be81413f 87fb79cb-f0ab-496f-935a-cbefe6035b6b">
+      targetConnections="6746fc9f-c098-46e1-bbae-11a0efd8ee3b df0a9a1b-56f3-443b-9da6-02e0be81413f 87fb79cb-f0ab-496f-935a-cbefe6035b6b"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d6f2209f-68c9-41fb-b444-9a9deaf273a8"

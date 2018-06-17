@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="12 - Vision fonctionnelle existant"
+    name="12 - Vision fonctionnelle"
     id="378a805d-d55c-42b4-a781-37064a50f24f"
     viewpoint="business_process_cooperation">
   <children
@@ -768,9 +768,9 @@
         targetConnections="8584218c-d220-4f87-8f5f-435cef512aed"
         textPosition="1">
       <bounds
-          x="576"
+          x="552"
           y="36"
-          width="181"
+          width="205"
           height="74"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -782,9 +782,9 @@
         targetConnections="4893c4f8-836e-4ce1-a6ac-e1b411dcd6db"
         textPosition="1">
       <bounds
-          x="360"
+          x="336"
           y="36"
-          width="181"
+          width="205"
           height="74"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -824,9 +824,9 @@
         targetConnections="825bc568-5ccf-4bac-8b71-9e0b189b853a"
         textPosition="1">
       <bounds
-          x="1032"
+          x="1020"
           y="36"
-          width="227"
+          width="239"
           height="74"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"

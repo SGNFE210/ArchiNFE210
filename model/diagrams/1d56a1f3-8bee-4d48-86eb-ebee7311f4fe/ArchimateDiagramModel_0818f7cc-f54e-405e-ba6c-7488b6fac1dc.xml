@@ -104,7 +104,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b818d306-9540-4fa4-99e1-ce31cad8189c"
-      targetConnections="60c182e8-59d9-4354-82e2-48edf7a672b6 0a30c734-9243-4eb3-918f-c886e0674c7b ffc929f2-c5c0-495e-bc65-0c854b830b66 82de0b4c-c461-47d5-b464-e45915e81955 7a64e195-67e7-4609-a3a9-3442085ca269">
+      targetConnections="60c182e8-59d9-4354-82e2-48edf7a672b6 0a30c734-9243-4eb3-918f-c886e0674c7b ffc929f2-c5c0-495e-bc65-0c854b830b66 82de0b4c-c461-47d5-b464-e45915e81955 7a64e195-67e7-4609-a3a9-3442085ca269"
+      font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cf0018fb-add6-428a-848d-dcc5593bbd1b"
@@ -309,9 +310,9 @@
     </sourceConnections>
     <bounds
         x="834"
-        y="420"
+        y="408"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_8c34a7b1-2e54-43f8-9e07-4e1003d944e3.xml#8c34a7b1-2e54-43f8-9e07-4e1003d944e3"/>
@@ -484,9 +485,9 @@
     </sourceConnections>
     <bounds
         x="666"
-        y="420"
+        y="408"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_814d1df4-245b-4c82-a39e-d6b9cdc997e9.xml#814d1df4-245b-4c82-a39e-d6b9cdc997e9"/>
@@ -507,9 +508,9 @@
     </sourceConnections>
     <bounds
         x="354"
-        y="420"
+        y="408"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_e3cc383b-ced3-4358-addf-37d17e2a09ea.xml#e3cc383b-ced3-4358-addf-37d17e2a09ea"/>
@@ -595,9 +596,9 @@
     </sourceConnections>
     <bounds
         x="510"
-        y="420"
+        y="408"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_30e6ef9c-5416-4357-9b79-182f28cc19f7.xml#30e6ef9c-5416-4357-9b79-182f28cc19f7"/>

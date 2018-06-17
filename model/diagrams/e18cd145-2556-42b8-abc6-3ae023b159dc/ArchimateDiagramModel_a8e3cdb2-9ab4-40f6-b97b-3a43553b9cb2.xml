@@ -48,7 +48,7 @@
           x="12"
           y="216"
           width="205"
-          height="97"/>
+          height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="09e0aec8-b33e-44fa-af2e-e78b09228b2c"
@@ -59,7 +59,7 @@
             x="12"
             y="36"
             width="169"
-            height="49"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_69cf9c40-10eb-4903-80e2-834e10b27e64.xml#69cf9c40-10eb-4903-80e2-834e10b27e64"/>
@@ -855,7 +855,7 @@
         <bounds
             x="84"
             y="36"
-            width="200"
+            width="253"
             height="36"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -937,7 +937,7 @@
         <bounds
             x="228"
             y="24"
-            width="170"
+            width="181"
             height="43"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
@@ -1114,11 +1114,22 @@
       id="e205c44b-9d30-4bb7-8f9a-e7bde6c15dd9"
       font="1|Segoe UI|18.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#c0c0c0"
-      content="POS Applicatif global de l'existant&#xD;&#xA;&#xD;&#xA;"
+      content="POS Applicatif global existant&#xD;&#xA;&#xD;&#xA;"
       textPosition="1">
     <bounds
         x="24"
         width="1297"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="06406c9e-46c3-44dc-8bd7-6d014ca029d0">
+    <bounds
+        x="1284"
+        width="37"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_c2d84a21-d659-4830-b121-b87ac6d5a55f.xml#c2d84a21-d659-4830-b121-b87ac6d5a55f"/>
   </children>
 </archimate:ArchimateDiagramModel>
