@@ -409,7 +409,7 @@
         x="840"
         y="519"
         width="120"
-        height="55"/>
+        height="70"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_22323f04-8408-4b87-ad1e-c4ebd4e950f0.xml#22323f04-8408-4b87-ad1e-c4ebd4e950f0"/>
@@ -464,7 +464,7 @@
         x="666"
         y="519"
         width="120"
-        height="55"/>
+        height="70"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_34964334-6279-4555-9f03-cfee5e23f66c.xml#34964334-6279-4555-9f03-cfee5e23f66c"/>
@@ -563,6 +563,11 @@
           endX="67"
           endY="-75"/>
       <bendpoints
+          startX="120"
+          startY="142"
+          endX="31"
+          endY="-75"/>
+      <bendpoints
           startX="96"
           startY="150"
           endX="7"
@@ -575,7 +580,7 @@
         x="354"
         y="519"
         width="276"
-        height="55"/>
+        height="70"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_95f32ce8-7b02-42c8-b3ab-5090775cdf72.xml#95f32ce8-7b02-42c8-b3ab-5090775cdf72"/>

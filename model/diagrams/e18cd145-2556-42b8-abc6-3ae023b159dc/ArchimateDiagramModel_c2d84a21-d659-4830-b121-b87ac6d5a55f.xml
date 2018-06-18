@@ -433,9 +433,9 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="84"
+          y="72"
           width="169"
-          height="288"/>
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="7c1a831e-3964-4f77-a476-831061e8173f"
@@ -443,7 +443,7 @@
           fillColor="#80ffff">
         <bounds
             x="24"
-            y="36"
+            y="48"
             width="120"
             height="55"/>
         <archimateElement
@@ -457,7 +457,7 @@
           fillColor="#80ffff">
         <bounds
             x="24"
-            y="96"
+            y="108"
             width="120"
             height="57"/>
         <archimateElement
@@ -471,7 +471,7 @@
           fillColor="#80ffff">
         <bounds
             x="24"
-            y="156"
+            y="174"
             width="120"
             height="55"/>
         <archimateElement
@@ -485,7 +485,7 @@
           fillColor="#80ffff">
         <bounds
             x="24"
-            y="216"
+            y="240"
             width="120"
             height="55"/>
         <archimateElement

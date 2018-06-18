@@ -652,8 +652,8 @@
           href="CompositionRelationship_edb54bbc-a6be-4a03-847c-d3b67b369e60.xml#edb54bbc-a6be-4a03-847c-d3b67b369e60"/>
     </sourceConnections>
     <bounds
-        x="912"
-        y="336"
+        x="900"
+        y="324"
         width="348"
         height="529"/>
     <children
@@ -673,7 +673,7 @@
             href="ServingRelationship_f7a6c12b-7634-4f89-ae9f-eaf37a2c28b0.xml#f7a6c12b-7634-4f89-ae9f-eaf37a2c28b0"/>
       </sourceConnections>
       <bounds
-          x="186"
+          x="204"
           y="36"
           width="121"
           height="61"/>
@@ -697,7 +697,7 @@
             href="RealizationRelationship_4e88023b-8211-4bb1-be63-81eeb5270b5b.xml#4e88023b-8211-4bb1-be63-81eeb5270b5b"/>
       </sourceConnections>
       <bounds
-          x="186"
+          x="204"
           y="141"
           width="121"
           height="73"/>
@@ -730,7 +730,7 @@
             href="RealizationRelationship_d3a1b6df-6c97-4dea-a783-9906f9640f33.xml#d3a1b6df-6c97-4dea-a783-9906f9640f33"/>
       </sourceConnections>
       <bounds
-          x="186"
+          x="204"
           y="288"
           width="121"
           height="61"/>
@@ -745,7 +745,7 @@
         fillColor="#80ffff"
         textPosition="1">
       <bounds
-          x="186"
+          x="204"
           y="408"
           width="121"
           height="73"/>
@@ -769,7 +769,7 @@
             href="ServingRelationship_43fc078c-316a-4205-9910-b03de99b9ff9.xml#43fc078c-316a-4205-9910-b03de99b9ff9"/>
       </sourceConnections>
       <bounds
-          x="6"
+          x="24"
           y="36"
           width="127"
           height="61"/>
@@ -792,7 +792,7 @@
             href="RealizationRelationship_33188ae7-5717-46d5-954e-ac7d60788f75.xml#33188ae7-5717-46d5-954e-ac7d60788f75"/>
       </sourceConnections>
       <bounds
-          x="3"
+          x="21"
           y="144"
           width="133"
           height="67"/>
@@ -825,7 +825,7 @@
             href="AccessRelationship_84dc9478-7776-4354-8c20-00f922136b52.xml#84dc9478-7776-4354-8c20-00f922136b52"/>
       </sourceConnections>
       <bounds
-          x="3"
+          x="21"
           y="288"
           width="133"
           height="61"/>
@@ -849,7 +849,7 @@
             href="CompositionRelationship_faf42b18-bdef-4110-bc6d-4c67b993ff0e.xml#faf42b18-bdef-4110-bc6d-4c67b993ff0e"/>
       </sourceConnections>
       <bounds
-          x="3"
+          x="21"
           y="408"
           width="133"
           height="73"/>
