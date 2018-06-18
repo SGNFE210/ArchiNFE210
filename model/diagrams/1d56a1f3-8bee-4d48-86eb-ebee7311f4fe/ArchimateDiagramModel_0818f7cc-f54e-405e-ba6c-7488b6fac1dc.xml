@@ -98,7 +98,7 @@
     <bounds
         x="24"
         y="36"
-        width="984"
+        width="1068"
         height="37"/>
   </children>
   <children
@@ -685,7 +685,7 @@
       xsi:type="archimate:DiagramModelReference"
       id="78fafcbf-13d7-4a21-ad0c-99cbd5d622a3">
     <bounds
-        x="972"
+        x="1056"
         y="36"
         width="36"
         height="37"/>

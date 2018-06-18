@@ -12,9 +12,9 @@
       content="Choix des projets prioritaires&#xD;&#xA;&#xD;&#xA;"
       textPosition="1">
     <bounds
-        x="24"
+        x="12"
         y="24"
-        width="865"
+        width="1183"
         height="49"/>
   </children>
   <children
@@ -360,7 +360,7 @@
       xsi:type="archimate:DiagramModelReference"
       id="3dd89e96-3279-478b-9e30-7e86b4a1e8b4">
     <bounds
-        x="24"
+        x="12"
         y="24"
         width="36"
         height="49"/>
@@ -372,7 +372,7 @@
       xsi:type="archimate:DiagramModelReference"
       id="7420c4e6-ae52-4e6d-b77c-695c7cd4db2d">
     <bounds
-        x="852"
+        x="1158"
         y="24"
         width="37"
         height="49"/>
