@@ -1056,9 +1056,9 @@
           type="1">
         <bounds
             x="12"
-            y="36"
+            y="24"
             width="157"
-            height="37"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_07c0d4bb-045b-4b32-a40c-62bf8961298c.xml#07c0d4bb-045b-4b32-a40c-62bf8961298c"/>
@@ -1071,9 +1071,9 @@
           type="1">
         <bounds
             x="228"
-            y="37"
+            y="25"
             width="157"
-            height="36"/>
+            height="48"/>
         <archimateElement
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_7a97e56e-f333-43f3-9aa5-6c649af8a565.xml#7a97e56e-f333-43f3-9aa5-6c649af8a565"/>
