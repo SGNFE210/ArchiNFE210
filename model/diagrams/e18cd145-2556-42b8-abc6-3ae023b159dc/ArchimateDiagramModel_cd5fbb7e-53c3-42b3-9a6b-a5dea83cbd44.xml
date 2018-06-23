@@ -1316,12 +1316,13 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="5ebf8cec-dded-4dcb-a6e3-617ffebbdb25"
           targetConnections="f3e23084-df67-4eea-8d8f-878d7dc36a46"
-          fillColor="#008000">
+          fillColor="#008000"
+          textPosition="1">
         <bounds
-            x="36"
+            x="24"
             y="96"
-            width="120"
-            height="55"/>
+            width="133"
+            height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_602f9856-a1f7-4f3f-9f39-017ccdc426b7.xml#602f9856-a1f7-4f3f-9f39-017ccdc426b7"/>
@@ -1397,12 +1398,13 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="64f8b7f1-f5dd-40c0-804d-90e59cf29cbd"
           targetConnections="65671aa0-4933-4d78-923d-e59f8e3f06c2"
-          fillColor="#8080c0">
+          fillColor="#8080c0"
+          textPosition="1">
         <bounds
             x="48"
             y="24"
-            width="120"
-            height="55"/>
+            width="145"
+            height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_0a476282-7eed-4ca9-8aeb-b2d6bebe3105.xml#0a476282-7eed-4ca9-8aeb-b2d6bebe3105"/>
@@ -1411,12 +1413,13 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="b59b9f71-0bf7-45d7-a66b-0cd20a955dec"
           targetConnections="1cc07d5a-ab83-446c-a3f9-b0472ab0a2f1"
-          fillColor="#808080">
+          fillColor="#808080"
+          textPosition="1">
         <bounds
             x="48"
             y="96"
-            width="120"
-            height="55"/>
+            width="145"
+            height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_c0e51ea9-0419-40de-abdb-e287995cc493.xml#c0e51ea9-0419-40de-abdb-e287995cc493"/>
@@ -1425,12 +1428,13 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="543ac657-11c4-4578-aa1a-23ef3af118b1"
           targetConnections="775eb384-0169-455a-b488-ac15a25911b8"
-          fillColor="#0080ff">
+          fillColor="#0080ff"
+          textPosition="1">
         <bounds
             x="48"
             y="168"
-            width="120"
-            height="55"/>
+            width="145"
+            height="67"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_4ee3df45-56c5-492b-9997-135e22978f9d.xml#4ee3df45-56c5-492b-9997-135e22978f9d"/>
@@ -1439,12 +1443,13 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="450cf2d6-8cfa-4153-9f08-9ed619e9300e"
           targetConnections="03c4859d-f0b7-4087-83b6-b04d968b91ae"
-          fillColor="#ff8040">
+          fillColor="#ff8040"
+          textPosition="1">
         <bounds
             x="204"
             y="24"
-            width="120"
-            height="55"/>
+            width="157"
+            height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_a275d4cc-bd4b-4cfe-9ebc-2a920f2948d0.xml#a275d4cc-bd4b-4cfe-9ebc-2a920f2948d0"/>
@@ -1453,11 +1458,12 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="bf8d0e97-83c5-4696-824d-a1c5a1f29d63"
           targetConnections="8de45ff7-0cde-4ec0-92e6-4c25f3db6bd1"
-          fillColor="#408080">
+          fillColor="#408080"
+          textPosition="1">
         <bounds
             x="204"
             y="96"
-            width="120"
+            width="157"
             height="73"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -1493,12 +1499,13 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1b07a3ce-fcfc-46d3-b9ab-a74594f0b7ae"
         targetConnections="93cd2cd2-a8e0-4d92-9fbb-e656675f960d 5e782ebd-d1d1-4132-8534-c67bb0855335 04bb5421-5bdf-4895-82eb-a371f8687906"
-        fillColor="#808000">
+        fillColor="#808000"
+        textPosition="1">
       <bounds
           x="696"
           y="60"
-          width="120"
-          height="55"/>
+          width="145"
+          height="73"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_7393d616-92b2-44a1-bcab-898cf5a311ea.xml#7393d616-92b2-44a1-bcab-898cf5a311ea"/>
